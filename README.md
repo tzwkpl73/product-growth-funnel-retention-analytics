@@ -1,4 +1,5 @@
 # E-commerce Product Growth, Funnel & Retention Analytics
+<img width="3840" height="1971" alt="image" src="https://github.com/user-attachments/assets/df8bc321-c3d1-470f-956d-7d40776f01d9" />
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/product-growth-funnel-retention-analytics/ProductGrowthDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
